@@ -9,6 +9,8 @@ int main()
 	scanf("%s", str);
 
 	//Write your code here
+  for(i=0;str[i]!=0;i++
+  )
 
 	return 0;
 }
