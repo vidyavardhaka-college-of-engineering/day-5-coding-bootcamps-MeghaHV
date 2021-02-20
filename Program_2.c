@@ -24,6 +24,5 @@ k--;
 rev[j]='\0';
   printf("%s",rev);
   printf("\n");
-
-	return 0;
+  return 0;
 }
