@@ -36,8 +36,5 @@ rev[j]='\0';
   }
   }
   printf("It is not a Palindrome.\n");
-  
-
-	
-	return 0;
+  return 0;
 }
